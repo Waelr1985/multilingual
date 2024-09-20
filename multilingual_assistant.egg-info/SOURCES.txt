@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+LICENSE_PYTHON.txt
+>>>>>>> c8e0ca39ed581800037ff33b8874953f0d54975a
 README.md
 setup.py
 multilingual_assistant.egg-info/PKG-INFO

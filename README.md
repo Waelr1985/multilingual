@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Multilingual Assistant 
 
 
@@ -54,3 +55,6 @@ open up localhost:
 
 
 
+=======
+Multilingual AI Assistant
+>>>>>>> c8e0ca39ed581800037ff33b8874953f0d54975a

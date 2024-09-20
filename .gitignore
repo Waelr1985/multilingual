@@ -1,4 +1,24 @@
 multilingual
 /.env
+<<<<<<< HEAD
 env
 .env
+=======
+env 
+
+*.dll
+*.pdb
+*.exe
+DLLs
+Lib
+Library
+Scripts
+Tools
+conda-meta
+etc
+include
+libs
+LICENSE_PYTHON.txt
+share/jupyter/nbextensions/pydeck
+.nonadmin
+>>>>>>> c8e0ca39ed581800037ff33b8874953f0d54975a

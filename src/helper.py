@@ -45,8 +45,12 @@ def llm_model_object(user_text):
     
     result=response.text
     
+<<<<<<< HEAD
     return result
     
     
     
     
+=======
+    return result
+>>>>>>> c8e0ca39ed581800037ff33b8874953f0d54975a
