@@ -57,4 +57,4 @@ open up localhost:
 
 =======
 Multilingual AI Assistant
->>>>>>> c8e0ca39ed581800037ff33b8874953f0d54975a
+>>>>>>> AIzaSyAhn2EIbHC0gw9742pjh_6Od1PB9jl2cWU
