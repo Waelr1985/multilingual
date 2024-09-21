@@ -24,8 +24,4 @@ def main():
                                mime="audio/mp3")
             
 if __name__=='__main__':
-<<<<<<< HEAD
     main()
-=======
-    main()
->>>>>>> c8e0ca39ed581800037ff33b8874953f0d54975a
